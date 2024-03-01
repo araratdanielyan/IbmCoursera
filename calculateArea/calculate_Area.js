@@ -1,7 +1,7 @@
 let length;
 let width;
 
-ffunction calculateArea() {
+function calculateArea() {
     length = parseFloat(document.getElementById('length').value);
     width = parseFloat(document.getElementById('width').value);
 

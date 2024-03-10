@@ -1,0 +1,29 @@
+{
+    "articles": [
+      {
+        "title": "Job shadowing sparks students' career potential",
+        "url": "#",
+        "description": "Job shadow program connects record number of students with potential employers, and helps alumni give back."
+      },
+      {
+        "title": "Breaking down barriers, leading equality",
+        "url": "#",
+        "description": "Fourth-year medical student encourages openness, involvement for LGBTQ community on campus."
+      },
+      {
+        "title": "Surge in designer drugs, tainted 'E' poses lethal risks",
+        "url": "#",
+        "description": "With up to 10 new designer drugs flooding streets every year, more education is needed to convey risks, especially among youth, say UAlberta researchers."
+      },
+      {
+        "title": "UAlberta set to bask in a rainbow of pride",
+        "url": "#",
+        "description": "Beginning Feb. 26, Pride Week celebrates an often invisible campus population."
+      },
+      {
+        "title": "Crowding around campus projects",
+        "url": "#",
+        "description": "U of A looks to crowdfunding to help launch first Alberta-made satellite, support other campus projects."
+      }
+    ]
+}
